@@ -20,14 +20,18 @@ stack underneath them too, from the infrastructure template to the browser.
 
 ### Where I've done it
 
+**ICE Mortgage Technology** — Staff Engineer. Income analysis for the US mortgage market.
+`Java 17 · Spring reactive · Kafka · PostgreSQL · Redis · AWS EKS`
+
+**Euvic** — developer, then architect and technical team lead, delivering for their clients:
+
 | | |
 |---|---|
-| **ICE Mortgage Technology** — Staff Engineer | Income analyzers for the US mortgage market. Java 17, Spring reactive, Kafka, AWS EKS. |
-| **Myneva** — Architect & technical team lead | Legacy system to microservices, plus the SSO platform for the product line. Keycloak, AWS ECS, IaC. |
-| **Vattenfall** — Senior developer → architect / team lead | EV charging platform: WebLogic monolith to Azure AKS, event-driven. Built the identity system and the OCPI ↔ Hubject eRoaming integration. |
-| **Bosch GmbH** — Senior developer / architect | Backend for devices plugged into cars, redesigned to run in the cloud. |
-| **Oberthur Technologies R&D** — Senior developer | Mobile payments for one of the handful of phone manufacturers everyone has heard of. The name stays in the NDA; the phone is probably in your pocket. Java, Go, Cassandra. |
-| **Asseco Poland** — Junior → Senior developer | Medical document repository (HL7 CDA), a patient portal on web and Android, and a PKI signing app talking to smart card readers. |
+| **Myneva** | Legacy system to microservices, plus the Single Sign-On platform for the product line. Keycloak, AWS ECS, Infrastructure as Code. |
+| **Vattenfall** | EV charging platform: WebLogic monolith to Azure AKS, event-driven. Built the identity system and the OCPI ↔ Hubject eRoaming integration. |
+| **Bosch GmbH** | Backend for devices plugged into cars, redesigned to run in the cloud. |
+| **Oberthur Technologies R&D** | Mobile payments for one of the handful of phone manufacturers everyone has heard of. The name stays in the NDA; the phone is probably in your pocket. Java, Go, Cassandra. |
+| **Asseco Poland** | Medical document repository (HL7 CDA), a patient portal on web and Android, and a PKI signing app talking to smart card readers. |
 
 ### Two I took end-to-end
 
