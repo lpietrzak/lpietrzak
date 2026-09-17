@@ -20,18 +20,16 @@ stack underneath them too, from the infrastructure template to the browser.
 
 ### Where I've done it
 
-**ICE Mortgage Technology** — Staff Engineer. Income analysis for the US mortgage market.
-`Java 17 · Spring reactive · Kafka · PostgreSQL · Redis · AWS EKS`
+Always B2B, never on anyone's payroll — the Euvic rows are clients I delivered for through them.
 
-**Euvic** — developer, then architect and technical team lead, delivering for their clients:
-
-| | |
+| Where | What |
 |---|---|
-| **Myneva** | Legacy system to microservices, plus the Single Sign-On platform for the product line. Keycloak, AWS ECS, Infrastructure as Code. |
-| **Vattenfall** | EV charging platform: WebLogic monolith to Azure AKS, event-driven. Built the identity system and the OCPI ↔ Hubject eRoaming integration. |
-| **Bosch GmbH** | Backend for devices plugged into cars, redesigned to run in the cloud. |
-| **Oberthur Technologies R&D** | Mobile payments for one of the handful of phone manufacturers everyone has heard of. The name stays in the NDA; the phone is probably in your pocket. Java, Go, Cassandra. |
-| **Asseco Poland** | Medical document repository (HL7 CDA), a patient portal on web and Android, and a PKI signing app talking to smart card readers. |
+| **ICE Mortgage Technology**<br>Staff Engineer | Income analysis for the US mortgage market.<br>`Java 17 · Spring reactive · Kafka · PostgreSQL · AWS EKS` |
+| **Myneva**<br>architect & technical team lead · via Euvic | Legacy system to microservices, plus the Single Sign-On platform for the product line.<br>`Keycloak · AWS ECS · IaC` |
+| **Vattenfall**<br>senior developer → architect · via Euvic | EV charging platform: WebLogic monolith to Azure AKS, event-driven. Built the identity system and the OCPI ↔ Hubject eRoaming integration.<br>`Java 11 · Kafka · OAuth2 · Azure AKS` |
+| **Bosch GmbH**<br>senior developer / architect · via Euvic | Backend for devices plugged into cars, redesigned to run in the cloud.<br>`Spring Boot · Mongo · RabbitMQ · Cloud Foundry` |
+| **Oberthur Technologies R&D**<br>senior developer · via Euvic | Mobile payments for one of the handful of phone manufacturers everyone has heard of. The name stays in the NDA; the phone is probably in your pocket.<br>`Java · Go · Cassandra` |
+| **Asseco Poland**<br>junior → senior developer · via Euvic | Medical document repository (HL7 CDA), a patient portal on web and Android, and a PKI signing app talking to smart card readers.<br>`Groovy · Spring · Oracle · JavaFX` |
 
 ### Two I took end-to-end
 
