@@ -26,7 +26,7 @@ stack underneath them too, from the infrastructure template to the browser.
 | **Myneva** — Architect & technical team lead | Legacy system to microservices, plus the SSO platform for the product line. Keycloak, AWS ECS, IaC. |
 | **Vattenfall** — Senior developer → architect / team lead | EV charging platform: WebLogic monolith to Azure AKS, event-driven. Built the identity system and the OCPI ↔ Hubject eRoaming integration. |
 | **Bosch GmbH** — Senior developer / architect | Backend for devices plugged into cars, redesigned to run in the cloud. |
-| **Oberthur Technologies R&D** — Senior developer | Payments for Apple mobile devices. Java, Go, Cassandra. |
+| **Oberthur Technologies R&D** — Senior developer | Mobile payments for one of the handful of phone manufacturers everyone has heard of. The name stays in the NDA; the phone is probably in your pocket. Java, Go, Cassandra. |
 | **Asseco Poland** — Junior → Senior developer | Medical document repository (HL7 CDA), a patient portal on web and Android, and a PKI signing app talking to smart card readers. |
 
 ### Two I took end-to-end
